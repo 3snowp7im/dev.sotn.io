@@ -1,0 +1,1 @@
+SotN-Randomizer/randomizeRelics.js
