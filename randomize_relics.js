@@ -1,0 +1,1 @@
+SotN-Randomizer/randomize_relics.js
