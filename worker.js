@@ -1,1 +1,0 @@
-SotN-Randomizer/worker.js
