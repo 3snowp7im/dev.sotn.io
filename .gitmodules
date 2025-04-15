@@ -1,4 +1,4 @@
-[submodule "SotN-Randomizer"]
-	path = SotN-Randomizer
-	url = https://github.com/3snowp7im/SotN-Randomizer
-        branch = development
+[submodule "sotnrando"]
+	path = sotnrando
+	url = https://github.com/sotnrando/sotnrando
+	branch = development
